@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitRepoSearchKotlin</string>
+    <string name="text_sub_count">Subscribers Count : %1$s</string>
+</resources>
